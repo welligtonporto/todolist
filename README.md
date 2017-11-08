@@ -1,8 +1,8 @@
-# wSlide
-A simple Javascript carousel by [Welligton Porto](https://www.linkedin.com/in/welligtonporto/) :)
+# toDo List
+A jQuery toDo List with jQuery by [Welligton Porto](https://www.linkedin.com/in/welligtonporto/) :)
 
 #### Demo
-http://www.lifegoals.com.br/wslide/
+https://welligtonporto.github.io/todolist/
 
 #### For development
 
