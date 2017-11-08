@@ -1,0 +1,5 @@
+@charset "UTF-8";/*!
+ * toDo List v1.0.0
+ * Copyright 2017
+ * Developed by Welligton Porto (welligtonporto@gmail.com)
+ */@font-face{font-family:icons;src:url(../icons/icons.eot?87143158);src:url(../icons/icons.eot?87143158#iefix) format("embedded-opentype"),url(../icons/icons.woff2?87143158) format("woff2"),url(../icons/icons.woff?87143158) format("woff"),url(../icons/icons.ttf?87143158) format("truetype"),url(../icons/icons.svg?87143158#icons) format("svg");font-weight:400;font-style:normal}[class*=" icon-"]:before,[class^=icon-]:before{font-family:icons;font-style:normal;font-weight:400;speak:none;display:inline-block;text-decoration:inherit;width:1em;margin-right:.2em;text-align:center;font-variant:normal;text-transform:none;line-height:1em;margin-left:.2em;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.icon-ok:before{content:'\e801'}.icon-plus:before{content:'\e802'}.icon-trash:before{content:'\f1f8'}.header-default{background-color:#563d7c}.header-default-brand{color:#fff}.list-group-item.disabled{text-decoration:line-through;opacity:.6}

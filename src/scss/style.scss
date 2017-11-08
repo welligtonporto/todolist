@@ -1,0 +1,34 @@
+/*!
+ * toDo List v1.0.0
+ * Copyright 2017
+ * Developed by Welligton Porto (welligtonporto@gmail.com)
+ */
+
+/* Supports */
+@import "compass/css3/";
+@import "compass/css3/flexbox";
+@import "compass/support";
+
+/* Styles import */
+@import "_icons";
+
+/* Colors */
+$color-default: #563d7c;
+$color-default-2: #FFF;
+
+/* Header */
+.header-default {
+  background-color: #563d7c;
+  
+  &-brand {
+    color: $color-default-2;
+  }
+}
+
+/* Lists */
+.list-group-item {
+	&.disabled {
+		text-decoration: line-through;
+		@include opacity(.6);
+	}
+}

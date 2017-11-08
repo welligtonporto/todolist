@@ -1,0 +1,28 @@
+{
+  "name": "toDo List",
+  "version": "1.0.0",
+  "description": "A simple toDo List with jQuery",
+  "main": "gulpfile.js",
+  "private": true,
+  "engines": {
+    "node": ">=4.4.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.11",
+    "gulp-compass": "^2.1.0",
+    "gulp-group-css-media-queries": "^1.2.0",
+    "gulp-uglify": "^2.1.2",
+    "jquery": "^3.2.1",
+    "bootstrap": "^4.0.0-beta"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git-codecommit.us-east-1.amazonaws.com/v1/repos/LOREM"
+  },
+  "author": "Welligton Porto",
+  "license": "ISC"
+}
